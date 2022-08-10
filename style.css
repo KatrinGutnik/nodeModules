@@ -1,0 +1,141 @@
+/*.bottom_menu {
+  margin-top: -730px;
+  position: relative;
+  width: 1280px;
+  height: 1280px;
+}
+
+.bottom_menu_logo {
+  position: absolute;
+  top: 60px;
+  margin-left: 18px;
+  bottom: 16px;
+  color: #fff;
+  border: 2px solid dimgrey;
+  width: 230px;
+  height: 58px;
+  background: #C4C4C4;
+}
+.bottom_logo_name {
+  color: black;
+  position: absolute;
+  top: 19px;
+  left: 98px;
+  font-size: 14px;
+}
+
+.bottom_menu_text {
+  position: absolute;
+  top: 140px;
+  left: 20px;
+  color: #7C7C7C;
+  font-size: 12px;
+}
+
+.bottom_menu_img {
+  position: absolute;
+  top: 180px;
+  display: flex;
+  left: 12px;
+}
+.bottom_menu1, .bottom_menu2, .bottom_menu3 {
+  margin-right: 18px;
+}
+
+.bottom_menu_table {
+  position: absolute;
+  top: 60px;
+  left: 700px;
+  width: 100%;
+  font-size: 14px;
+  color: black;
+}
+.bottom_menu_table td {
+  padding-bottom: 10px;
+}
+*/
+
+/*.tech__header{
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  z-index: 999999;
+  margin-bottom: 20px;
+}
+
+.tech{display: flex;margin: 15px;}
+.techBlock{
+  padding: 10px;
+  margin: 10px;
+  border: 1px dashed black;
+}
+.techBlock__row {
+  display: flex;
+}
+.tech__full{
+
+}
+.tech__half{ width: 50% }
+.tech__320{ width: 320px; }
+.tech__480{ width: 480px; }
+.tech__769{ width: 769px; }
+.tech__1280{ width: 1280px; }
+.tech__1024{ width: 1024px; }
+
+.techBlock__mobile iframe{
+  width:100%;
+  height: 400px;
+}
+
+/*.button{
+  padding:5px 15px;
+  border:1px solid black;
+  border-radius: 10px;
+  background: aliceblue;
+  display: inline-block;
+  text-align: center;
+  min-width: 150px;
+}
+
+.button--full{
+  display: block;
+}
+
+
+.client-address{
+  display: grid;
+  grid-template-areas:
+    "u i"
+    "c c";
+}
+
+.client-address__user-name{
+  grid-area: u;
+  font-weight: 500;
+  height: 30px;
+  font-size: 12px;
+  line-height: 14px;
+  color: #000000;
+}
+
+.client-address__icon{
+  grid-area: i;
+  display: flex;
+  justify-content: flex-end;
+}
+.kebab-icon{
+  max-width: 18px;
+  height: 12px;
+  display: flex;
+  justify-content: flex-end;
+}
+.client-address__content{
+  grid-area: c;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #000000;
+}
+.address{}
+.phone{}
+*/

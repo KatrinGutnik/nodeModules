@@ -1,0 +1,52 @@
+{
+  "type": "module",
+  "name": "node-js",
+
+  "version": "1.0.0",
+
+  "description": "Node JS course",
+
+  "main": "index.js",
+
+  "scripts": {},
+
+  "keywords": [
+
+    "node",
+
+    "nodejs'"
+
+  ],
+
+  "author": "Katrin",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "axios": "^0.27.2",
+
+    "boostrap": "^2.0.0",
+
+    "bootstrap": "^5.2.0",
+
+    "chalk": "^5.0.1",
+
+    "commonjs-variables-for-esmodules": "^1.1.0",
+
+    "fs": "^0.0.1-security",
+
+    "fs-extra": "^10.1.0",
+
+    "gulp": "^3.9.1"
+
+  },
+
+  "devDependencies": {
+
+    "nodemon": "^2.0.19"
+
+  }
+
+}
+
